@@ -1,7 +1,7 @@
 <h1 align="left">hi 👋, I'm Eike</h1>
 
 - **facts about me:**
--  I'm a Data Engineer from Brazil using cutting-edge technologies such as Python, PySpark, Databricks, and AWS.
+-  I'm a Data Engineer with 5+ years of hands-on experience in the data domain field. I specialize using cutting-edge technologies such a Python, SQL, PySpark and PowerBI to implement high-performance data solutions.
 -  My fuel is coding, but before you write a line of code, write down your plan. Coding is easy, but understanding the problem is hard.
 -  I love data, remember: data is almost everything, you need to ask the right questions.
 -  I'm a Software Engineer too, using Javascript and React.
