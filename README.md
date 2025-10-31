@@ -1,10 +1,9 @@
 <h1 align="left">hi 👋, I'm Eike</h1>
 
 - **facts about me:**
--  I'm a Data Engineer with 5+ years of hands-on experience in the data domain field. I specialize using cutting-edge technologies such a Python, SQL, PySpark and PowerBI to implement high-performance data solutions.
+-  I'm a Software Engineer with 5+ years of hands-on experience in the data and software domain field. I specialize using cutting-edge technologies such a Python, SQL, PySpark, AWS, React, Typescript and Node.js to implement high-performance data solutions.
 -  My fuel is coding, but before you write a line of code, write down your plan. Coding is easy, but understanding the problem is hard.
 -  I love data, remember: data is almost everything, you need to ask the right questions.
--  I'm a Software Engineer too, using Javascript and React.
 -  📚 I've studied at FATEC (University of Technology). I have a bachelor's degree in Automation and Digital Manufacturing. FATEC is one of the best colleges in São José dos Campos because it has professors who also teach at ITA (Technological Institute of Aeronautics) which allows for great learning during studies at the university.  
 - 📫 How to reach me: **eikeadrian9830@gmail.com**
 
